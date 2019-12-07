@@ -1,7 +1,7 @@
 # Codeforces Automated Registration
 
 This app/program is to automated registration on Codeforces (an online coding competition website) using python and selenium package. Selenium is package or a framework is generally used to automate the web browser.
-[Image](https://photos.app.goo.gl/myjTAdt8Swrbkb6WA)
+<img src='https://photos.app.goo.gl/myjTAdt8Swrbkb6WA'>
 
 ## Steps
 
